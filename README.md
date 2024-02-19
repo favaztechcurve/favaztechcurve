@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @favaz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning you
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @fz.artz_ in instagram
 
